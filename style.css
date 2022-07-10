@@ -20,11 +20,10 @@ html{
     margin: 80px;
     margin-top: -18px;
     background-image: url("galaxy.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: center;
-    background-size: 100% 100%;
-    background-attachment:fixed;
-
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 body{
